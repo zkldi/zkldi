@@ -4,20 +4,14 @@ I'm currently going through some difficult times. On top of that, I've lost pass
 
 *****
 
-When the passion runs dry, working with software is misery.
-The managing and maintenance of languages and libraries, toolchains and testing, containerisation and cloud-platform goes from hobbiest-enjoyment to fatiguing obstacle in way of your actual problem.
+"Anyway, I was just awfully good at [it], and it was the first thing I'd ever really been good
+at, and so everybody, including me, anticipated I'd make it a career. But it sort of emptied out for me
+somewhere around age twenty. I just got tired of it, and panicked because I was suddenly not getting any joy
+from the one thing I was clearly supposed to do because I was good at it and people liked me for being
+good at it. Not a fun time. I think I had kind of a mid-life crisis at twenty, which probably doesn't augur well
+for my longevity."
 
-Each decision threatens another tangle in the web, another weight on your neck, another fucking thing to think about.
-That you're inching closer and closer to being ensnared in a personalised hell where future movement is unendurable.
-That the programming of today ensures only the rewrites of the future.
-
-Future hurdles and solutions sprawl out infront of one in fractal complexity; there are so many abstruse choices, so many hitherto undiscovered failure states, that if one tried to thoroughly think about it they'd find themselves cataplectic at the foot of a typescript-build-chain or database-in-docker or python-pkg-management error.
-
-The only option is to push on, keep moving and work in the moment. No individual decision is in-and-of-itself insufferable.
-The brain will look ahead and warn you that there will be so many consequences for each of these decisions and you'll be able to mitigate them now if you think about it just a bit longer.
-That you'll come to a perfect, grand-unifying fix. Just a bit more thought. But you won't find it; you'll spin your tyres and find you've moved nowhere. 
-
-The trick is to not think about the future so much you forget you're living in the present.
+- David Foster Wallace
 
 *****
 
